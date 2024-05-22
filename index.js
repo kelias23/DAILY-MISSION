@@ -25,4 +25,13 @@ app.listen(port, () => {
 
 const adj = [
   "SEA : go to sea and do backflip!"
+  "HIKE: Explore a nearby forest or park."
+  "SUNRISE: Wake up early to catch the sunrise."
+  "KINDNESS: Surprise someone with a small act of kindness."
+  "LEARN: Expand your vocabulary with a new word."
+  "PHOTO: Capture something interesting with your phone camera."
+  "DANCE: Have a dance party at home."
+  "WRITE: Send a handwritten letter to someone."
+  "COOK: Try a new recipe for dinner."
+  "PLANT: Start an indoor garden by planting a seed."
 ];
